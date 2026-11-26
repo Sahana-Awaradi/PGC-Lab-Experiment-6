@@ -1,1 +1,15 @@
+# CUDA executables
+*.exe
+exp6
 
+# Object files
+*.o
+*.obj
+
+# Build folders
+build/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.log
